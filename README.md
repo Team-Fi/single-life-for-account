@@ -1,4 +1,4 @@
-### SLPA (Single Life Per Account)
+### SLPA (Single Life Per Account) (Old)
 
 사망시 영구 차단 처리가 되는, 조건부 하드코어 플러그인입니다.  
 **slpa.bypass** <span>권한이 있을 시 사망 시에도 밴 되지 않습니다.</span>  
